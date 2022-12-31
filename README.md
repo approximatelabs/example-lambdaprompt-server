@@ -2,6 +2,8 @@
 
 This is a minimal example of a server repo that can host prompts made with lambdaprompt
 
+This repo only contains 20 lines of python! That's how easy it is~
+
 ## How to use
 
 1. Clone this repo
